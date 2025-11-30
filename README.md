@@ -80,7 +80,7 @@ Follow these steps to enable Python to capture system audio via BlackHole 2ch:
 2. **Run the Pipeline**:  
    ```bash
    cd src
-   python src/main.py
+   python main.py
    ```
 3. **Output**: Speech segments are saved to `./output/<timestamp>/<speaker_id>/` with filenames like `0_1.wav`.
 
