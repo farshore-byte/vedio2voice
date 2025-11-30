@@ -1,0 +1,7 @@
+torch==2.8.0
+numpy
+sounddevice>=0.4.6
+torchaudio==2.8.0
+speechbrain>=0.5.12
+soundfile>=0.12.1
+denoiser>=0.1.0
