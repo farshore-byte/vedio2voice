@@ -1,9 +1,9 @@
-# Video2Voice: Real-Time Audio Processing Pipeline
+# Video2Voice: From video to Human voice
 
 [Switch to Chinese version 切换到中文版](README.zh.md)
 
 ## Project Overview
-Video2Voice is a Python-based tool that processes audio in real-time to extract, enhance, and cluster speech segments by speaker. It combines voice activity detection (VAD), voice enhancement, and speaker diarization to provide structured audio outputs. Unlike simple audio extraction, this tool processes raw audio streams to isolate and organize speech by individual speakers.
+Video2Voice is a Python-based tool that processes audio in real time to extract, enhance, and cluster speech segments by speaker. It combines speech activity detection (VAD), speech enhancement, and speaker recognition techniques to extract the speech produced by the speaker in the audio.
 
 
 ## Key Features
